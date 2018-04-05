@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="CSS/Portfolio.css">
+</head>
+<body>
+
+<!-- MAIN (Center website) -->
+<div class="main">
+
+<h1>MY PORTFOLIO</h1>
+<hr>
+
+<h2>PORTFOLIO</h2>
+
+<!-- Portfolio Gallery Grid -->
+<div class="row">
+  <div class="column">
+    <div class="content">
+      <img src="Imagem/Imagem.jpg" alt="Pessoa" style="width:100%">
+      <h3>Sobre Mim</h3>
+      <p>Um pouco sobre mim...</p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+    <img src="Imagem/Imagem2.jpg" alt="Sobre" style="width:100%">
+      <h3>My Work</h3>
+      <p>Um pouco sobre meu trabalho...</p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+    <img src="Imagem/Imagem3.jpg" alt="Qualidade" style="width:100%">
+      <h3>minhas Qualidades</h3>
+      <p>Um pouco sobre minhas qualidades...</p>
+    </div>
+  </div>
+<!-- END GRID -->
+</div>
+
+<!-- END MAIN -->
+</div>
+
+</body>
+</html>
